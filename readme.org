@@ -1,0 +1,92 @@
+* Questions to ask the interviewer
+
+** The Role
+   1. Can you tell me more about the day-to-day responsibilities of this job?
+      - What are the daily tasks I would do?
+      - Can you walk me through a typical day?
+   2. How does the onboarding process look like?
+   3. How much freedom for decision making do individual developers have?
+   4. What is your definition of success for this role?
+      - What is it expected of me, both in the beginning and in general?
+   5. Can you show me examples of projects I would be working on?
+
+
+** Technology
+   1. What are the usual stacks used at the company?
+      - Do you use open source?
+      - Do you contribute to FOSS?
+   2. What tools do you use, payed/free?
+      - What tools does the team use to communicate each day?
+   3. How do you integrate and deploy changes? Is it CI/CD?
+   4. Do you have documentation for your code?
+   5. Are all developers allowed to have local admin access of their computers?
+   6. Can developers choose their own Machine/OS/Editor?
+
+
+** The Team/Working experience/Zen
+   1. How does my team look like?
+      - How big is my team going to be?
+      - How is it structured?
+      - What are the roles in my team?
+   2. Is the work on this team more collaborative or independent?
+   3. What kind of methodology do you use for working?
+   4. Who sets the priorities / schedule?
+   5. How are requirements/expectations communicated?
+   6. How are expectations and goals set, and who does the setting?
+   7. What kind of meetings will I have to attend and how often?
+   8. How does a code review process look like here?
+   9. What's the promotion/performance process like?
+      - What are the common career paths in this department?
+   10. Are there any company-wide resources for learning available?
+       - Are there ebooks subscriptions, or online courses?
+       - Do you have a budget for conferences or certifications?
+   11. Can I work remotely/from home from time to time?
+   12. Do people work overtime?
+       - How often?
+       - What is the payment for extra hours?
+
+
+** Coworkers/Bosses
+   1. What role will I fill in the team?
+   2. Who will I work with most closely?
+   3. Who will I report to?
+   4. Who do developers tend to learn from? Are there mentors? Will I mentor somebody?
+   5. Is my boss' performance evaluated based on how well they develop the talent and skills of the team?
+   6. How long has the longest team member been there?
+   7. How long is the average tenure of an employee?
+   8. What would you change if you could at this company?
+
+
+** Drama/Circlejerk
+   1. What happens when the team is under pressure and commits to work over their capacity / velocity?
+   2. What happens when the team misses a release target?
+   3. How are differences of opinions resolved?
+   4. What are the biggest challenges of this job?
+   5. What do you think are the most rewarding or gratifying aspects of working in this position?
+
+
+** Company/Business
+   1. Why are you hiring? Is it because:
+      - the company grew,
+      - are there new projects,
+      - is this a new role,
+      - someone left etc?
+   2. How many people work in this office/department?
+   3. Do you expect to do more hiring in the next six months?
+   4. Why do you think people leave the company?
+   5. How has the company changed over the last few years?
+   6. What are the company’s values?
+   7. Are there any non-compete or non-disclosure agreements I'll be asked to sign?
+   8. Are you profitable?
+   9. Where do the money come from?
+   10. Who is your biggest competitor?
+   11. What have you identified as your competitive advantage?
+
+
+** FUD
+   1. Has anyone failed in this position?
+      - If so, why?
+   2. Is there anything about my background or resume that makes you question whether I am a good fit for this role
+   3. Is there anything we haven’t covered or that I can do that would help you with your decision?
+   4. What about my background interested you for this position?
+   5. How do I compare with the other candidates you’ve interviewed for this role?
