@@ -1,3 +1,5 @@
+# What makes a programmer happy?
+
 What makes a programmer happy at their workplace is a combination of individual and organizational factors. While a good salary and benefits are important, science and research suggest that happiness and job satisfaction for programmers go much deeper. Happy developers are not only more productive but also more creative and better problem-solvers.
 
 Here's a breakdown of what the science says contributes to a programmer's happiness at work:
