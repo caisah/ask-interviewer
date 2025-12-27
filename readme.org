@@ -4,6 +4,9 @@
    1. Can you tell me more about the day-to-day responsibilities of this job?
       - What are the daily tasks I would do?
       - Can you walk me through a typical day?
+      - How does a project go from an idea to a ticket?
+        - Specifically, at what stage are engineers brought into the conversation;
+        - When the problem is identified, or after the solution has already been decided?
    2. How does the onboarding process look like?
    3. How much freedom for decision making do individual developers have?
    4. What is your definition of success for this role?
@@ -34,7 +37,8 @@
    5. How are requirements/expectations communicated?
    6. How are expectations and goals set, and who does the setting?
    7. What kind of meetings will I have to attend and how often?
-   8. How does a code review process look like here?
+   8. How does the team distinguish between ‘blocking’ feedback (must-fix) and ‘nitpicks’ (optional suggestions) in code reviews?
+      And do you use automated linters to handle style debates?
    9. What's the promotion/performance process like?
       - What are the common career paths in this department?
    10. Are there any company-wide resources for learning available?
@@ -44,6 +48,9 @@
    12. Do people work overtime?
        - How often?
        - What is the payment for extra hours?
+       - What is the official policy for recovery? If for example I get paged overnight, is it standard procedure to take the next morning or day off without using my PTO?
+       - When was the last time the team had to work nights or weekends to meet a deadline? And what changes were made to the planning process to ensure it didn’t happen again?
+   13. Can you walk me through the hardest technical obstacle the team faced in the last six months? Was the complexity in the scale, the business logic, or the legacy constraints?
 
 
 ** Coworkers/Bosses
@@ -60,9 +67,10 @@
 ** Drama/Circlejerk
    1. What happens when the team is under pressure and commits to work over their capacity / velocity?
    2. What happens when the team misses a release target?
-   3. How are differences of opinions resolved?
-   4. What are the biggest challenges of this job?
-   5. What do you think are the most rewarding or gratifying aspects of working in this position?
+   3. Tell me about the last time a significant bug made it into production. How did the team react in the immediate aftermath, and what was the process for ensuring it didn’t happen again?
+   4. How are differences of opinions resolved?
+   5. What are the biggest challenges of this job?
+   6. What do you think are the most rewarding or gratifying aspects of working in this position?
 
 
 ** Company/Business
